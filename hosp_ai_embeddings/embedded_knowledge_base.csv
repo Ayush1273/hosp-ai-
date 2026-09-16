@@ -1,0 +1,146 @@
+chunk_id,document_title,category,text
+0,ICU Capacity Management Policy,ICU_CAPACITY,"Purpose:
+Provide a framework for monitoring ICU capacity and identifying
+potential capacity pressure.
+
+Operational guidance:
+ICU occupancy below 70 percent represents routine operational
+conditions for this prototype.
+
+ICU occupancy between 70 and 80 percent requires increased
+monitoring of bed utilization.
+
+ICU occupancy between 80 and 90 percent indicates elevated
+capacity pressure and preparation for additional capacity.
+
+ICU occupancy above 90 percent represents critical capacity
+pressure an"
+1,ICU Capacity Management Policy,ICU_CAPACITY,"on for additional capacity.
+
+ICU occupancy above 90 percent represents critical capacity
+pressure and should trigger escalation review.
+
+Recommended actions:
+Review expected ICU discharges, upcoming transfers and available
+beds when occupancy approaches critical levels.
+
+Note:
+These thresholds are synthetic research values created for the
+HOSP-AI COMMAND prototype and are not clinical guidelines."
+2,ICU Staffing Escalation Policy,STAFFING,"Purpose:
+Provide operational guidance for identifying ICU staffing pressure.
+
+Operational guidance:
+A shortage flag indicates that available staffing is below the
+prototype operational requirement.
+
+When a staffing shortage is detected, administrators should review
+current staffing levels, upcoming shifts and possible workforce
+redistribution.
+
+If staffing pressure occurs together with high ICU occupancy,
+capacity escalation should receive additional attention.
+
+Recommended actions:
+Review staff"
+3,ICU Staffing Escalation Policy,STAFFING,"cupancy,
+capacity escalation should receive additional attention.
+
+Recommended actions:
+Review staffing availability.
+Evaluate workforce redistribution options.
+Monitor upcoming shift requirements.
+
+Note:
+This document is synthetic and intended only for research
+demonstration."
+4,Emergency Department Surge Procedure,EMERGENCY,"Purpose:
+Provide operational guidance for monitoring emergency department
+inflow.
+
+High emergency department arrivals may create downstream pressure
+on inpatient and critical-care capacity.
+
+When emergency arrivals increase substantially, administrators
+should monitor admission rates, available beds and expected
+patient transfers.
+
+Recommended actions:
+Monitor emergency inflow.
+Review available inpatient capacity.
+Evaluate expected admissions.
+Coordinate with bed-management personnel.
+
+Note:
+Thi"
+5,Emergency Department Surge Procedure,EMERGENCY,"patient capacity.
+Evaluate expected admissions.
+Coordinate with bed-management personnel.
+
+Note:
+This is a synthetic operational procedure created for the
+HOSP-AI COMMAND research prototype."
+6,Ventilator Resource Management Policy,VENTILATOR,"Purpose:
+Provide operational guidance for monitoring ventilator resource
+availability.
+
+Low ventilator availability indicates increasing equipment
+pressure.
+
+When available ventilators fall below the prototype threshold,
+administrators should review current utilization and expected
+near-term demand.
+
+Recommended actions:
+Monitor ventilator utilization.
+Review equipment availability.
+Evaluate expected demand.
+Escalate resource monitoring when availability becomes critically
+low.
+
+Note:
+This docum"
+7,Ventilator Resource Management Policy,VENTILATOR,"ted demand.
+Escalate resource monitoring when availability becomes critically
+low.
+
+Note:
+This document is synthetic and is not intended for clinical
+decision-making."
+8,Hospital Bed Management Policy,BED_MANAGEMENT,"Purpose:
+Support hospital-wide monitoring of bed utilization.
+
+Bed-management teams should continuously monitor occupied beds,
+available beds, admissions, discharges and transfers.
+
+When occupancy increases rapidly, expected discharges and
+transfers should be reviewed.
+
+Recommended actions:
+Monitor available beds.
+Review expected discharges.
+Coordinate interdepartmental transfers.
+Monitor emergency admission pressure.
+
+Note:
+This policy is synthetic and created for academic research."
+9,Elective Surgery Capacity Policy,ELECTIVE_SURGERY,"Purpose:
+Provide an operational framework for considering elective surgery
+activity during periods of hospital capacity pressure.
+
+When critical-care capacity becomes constrained, administrators
+should review upcoming elective procedures and expected resource
+requirements.
+
+Recommended actions:
+Review scheduled elective procedures.
+Evaluate expected ICU resource requirements.
+Coordinate surgery scheduling with available capacity.
+
+Note:
+This document represents synthetic prototype policy informa"
+10,Elective Surgery Capacity Policy,ELECTIVE_SURGERY,"heduling with available capacity.
+
+Note:
+This document represents synthetic prototype policy information.
+It does not constitute clinical or hospital policy."
